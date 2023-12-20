@@ -37,6 +37,7 @@ The tool relies on a Sqlite database (`gmdb.db`). Follow these steps to set up a
    - itemlist_armor.rh
    - itemlist_armor_string.rh
    - itemlist_costume.rh
+   - itemlist_costume_string.rh
    - itemlist_weapon.rh
    - itemlist_weapon_string.rh
    - itemoptionlist.rh
